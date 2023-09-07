@@ -10,3 +10,4 @@ Chrome extension to display old github feeds
 6. Go to `https://github.com`
 
 # Screenshot
+![Screenshot](https://raw.githubusercontent.com/dongri/github-feed/main/assets/feed.png)
